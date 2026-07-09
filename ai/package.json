@@ -1,0 +1,19 @@
+{
+  "name": "escapeher-ai",
+  "version": "1.0.0",
+  "description": "AI module for EscapeHer — Gemini prompt engineering, schemas, and utilities",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "zod": "^3.23.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "@types/node": "^20.0.0"
+  }
+}

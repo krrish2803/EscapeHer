@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 200" role="img" aria-label="EscapeHer">
+  <g fill="currentColor" color="#FFFFFF">
+    <path d="M 0 0 A 45 45 0 0 0 0 -80 A 45 45 0 0 0 0 0 Z" transform="translate(85,145) rotate(-30)"/>
+    <path d="M 0 0 A 45 45 0 0 1 0 -80 A 45 45 0 0 1 0 0 Z" transform="translate(115,145) rotate(30)"/>
+    <path d="M 100 109 L 103.4 118.6 L 113 122 L 103.4 125.4 L 100 135 L 96.6 125.4 L 87 122 L 96.6 118.6 Z" opacity="0.85"/>
+    <text x="228" y="127" font-family="Manrope, 'Segoe UI', system-ui, sans-serif" font-size="62" font-weight="800" letter-spacing="-1">EscapeHer</text>
+  </g>
+</svg>

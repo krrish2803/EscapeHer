@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="EscapeHer icon">
+  <defs>
+    <radialGradient id="ehSparkGrad3" cx="50%" cy="35%" r="65%">
+      <stop offset="0" stop-color="#F5D9A8"/>
+      <stop offset="1" stop-color="#E8A33D"/>
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="200" height="200" rx="44" fill="#06322F"/>
+  <circle cx="100" cy="122" r="20" fill="#E8A33D" opacity="0.3"/>
+  <path d="M 0 0 A 42 42 0 0 0 0 -74 A 42 42 0 0 0 0 0 Z" fill="#7FC4B8" transform="translate(87,142) rotate(-30)"/>
+  <path d="M 0 0 A 42 42 0 0 1 0 -74 A 42 42 0 0 1 0 0 Z" fill="#9FC6DA" transform="translate(113,142) rotate(30)"/>
+  <path d="M 100 110 L 103.2 119 L 112 122 L 103.2 125 L 100 134 L 96.8 125 L 88 122 L 96.8 119 Z" fill="url(#ehSparkGrad3)"/>
+</svg>
